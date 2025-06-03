@@ -2,6 +2,8 @@
 
 This project analyzes the Netflix Movies and TV Shows dataset to gain insights into content distribution, trends, and patterns.
 
+![Number of Films and TV Show by Release Date](Countplot.png)
+
 ## Overview
 
 The analysis explores various aspects of Netflix's content library including:
@@ -56,3 +58,6 @@ The analysis is performed using Python with the following key libraries:
    ```
 3. Open and run the Jupyter notebook `Netflix_Analysis.ipynb`
 
+
+## Contact Me
+- **LinkedIn**: [Mahmoud Elnagar](https://linkedin.com/in/elnagar74)
